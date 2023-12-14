@@ -1,0 +1,28 @@
+
+.body{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: normal;
+    color: navy;
+    background-color: rgb(136, 206, 233);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+     
+}
+.header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: rgb(15, 44, 78);
+    background-color: rgb(151, 255, 255);
+  
+
+}
+
+
+.image{
+    size: 10px;
+}
+
+
